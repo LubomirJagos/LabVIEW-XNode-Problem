@@ -329,6 +329,7 @@
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="XNodeProblem_FPGATarget_FPGACodeDummy_Ji5c8vbTUtE.lvbitx" Type="Document" URL="../FPGA Bitfiles/XNodeProblem_FPGATarget_FPGACodeDummy_Ji5c8vbTUtE.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
